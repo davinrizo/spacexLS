@@ -1,5 +1,4 @@
 # spacexLS
-## Quick Start
 
 ```bash
 # Install dependencies (server & client)
